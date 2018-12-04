@@ -15,7 +15,6 @@ ReactDOM.render(
       occupation: "farmer",
       address: "300 MiddleOfNoWhere st Tatooine"
     }}
-  
   />,
   document.getElementById("root")
 );
